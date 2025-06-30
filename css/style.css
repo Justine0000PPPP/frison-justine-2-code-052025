@@ -593,6 +593,11 @@ a {
           height: 141px;
     }
 
+    .marsaille .card-content {
+    margin-left: 0;
+    margin-right: auto;
+}
+
 
     /* activites */
 
