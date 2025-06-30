@@ -265,7 +265,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 30px;
-    background-color: blue;
+    
 }
 
 .ligne-card {
@@ -460,9 +460,8 @@ a {
         height: 200px;
     }
 
-    .herbergements-card { 
-        background-color: rgb(253, 217, 72);
-        max-width: 100%;
+    .marsaille{ 
+    width: 100%;    
     }
 }
 
